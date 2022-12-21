@@ -1,0 +1,65 @@
+                           RAMU PALURI 
+ Mobile: + 91 8297404476             LinkedIn:https://www.linkedin.com/in/ramu-reddy-paluri
+ Email: paluriramu829740@gmail.com   Github: https://github.com/PaluriRamu
+ 
+ CAREER OBJECTE:
+ I am looking for the opportunity to further develop my skills as a web developer and apply them to
+ yourorganization’s needs. I have good knowledge of Python, Javascript to help company and client to
+ achieve their goal.
+
+ WORK EXPERIENCE:
+ Web Development Interns:
+ Lets GrowMore (Feb 22- March 22)
+  Task1: Create A Todo-List App
+    Problem Statement: TODO List are the lists that we generally use to maintain our day to day 
+    tasks or list of everything that we have to do, with the most important tasks at the top of the list, 
+    and the least important tasks at the bottom. It is helpful in planning our daily schedules.
+  Details: Capture everything, Lists, lists and more lists, Organize your to-do list by workflow, 
+    priority or due date, Make it actionable, Verbs first, detail later, Prioritize your to-dos.
+  Used libraries: HTML, CSS, Javascript.
+
+ The Spark Foundations (Jan 22- Feb 22)
+  Task1: The Payment Gateway Integration 
+    Problem Statement: The payment gateway provides a systemized payment methods. It 
+    facilities the customer with a fast and flexible way to pay. They can pay from wherever 
+    they are even though their mobile are desktop. The payment gateway APIs and tools 
+    enable you to provide a personalized experience to the customers.
+  Details: One of the most important features to consider in a payment gateway security. (Easy 
+   integration, Detailed reporting, Invoicing options, Multiple payment options, Fast processing 
+   speed).
+  Used libraries: HTML, CSS, Bootstrap, Javascript.
+ Task2: Social Media Integration
+ Problem Statement: Social media integration is defined as the use of social media platforms as 
+part of a digital marketing strategy. That means having active social media accounts and linking 
+them with a brand website to drive prospects to and from the site.
+ Details: Expand your business networking, Easy to manage, Analytics and reports, content 
+aggregation and scheduling, Improved analysis and forecasts.
+ Used libraries: HTML, CSS, Javascript.
+TECHNICAL SKILLS:
+ Python (Numpy, Pandas, Matplotlib)
+ MYSQL
+ Ms Excel
+ Ms Word
+ HTML
+ CSS
+ Angular Js
+ Node Js
+ Bootstrap
+ Php
+EDUCATION:
+Degree Year Percentage/CGPA University
+B.Sc (computer science) 2020 64 Acharya Nagarjuna
+University
+Intermediate 2016 61 Nethaji Junior Colllege 
+SSC 2014 75 ZPHS
+PERSONAL DETAILS:
+ Gender : Male
+ DOB : 29/06/1999
+ Location : SR Nagar, Hyderabad – 500038
+ Permanent Address: 2-38-2 , Neredupalli(V),
+ PC Palli(M), Prakasam (Dist), Andhra Pradesh- 523111
+ Languages : English, Telugu, Hindi
+ Hobbies : Playing Cricket, Watching Movies, Listening Music, Traveling 
+Place: Hyderabad 
+Date:24-09-2022 
+ (RAMU.P)
